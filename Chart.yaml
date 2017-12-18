@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for setting up OpenVPN connection for your cluster
+name: openvpn-connect
+version: 0.1.0
